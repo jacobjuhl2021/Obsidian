@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "d09b74c98b720e13",
+    "type": "split",
+    "children": [
+      {
+        "id": "538f271e42201b42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42da07ed2d69e923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tema 2 - Effekt og energi/Strøm - Ampere.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strøm - Ampere"
+            }
+          },
+          {
+            "id": "2ed1e67b92ccfc1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tema 2 - Effekt og energi/Generelt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Generelt"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fd8baf4853be7e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "593f9040d45a7477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93c2da18b5d53376",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d6543010d6e25592",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7218e4e1c5bf1d4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b492104a38cda9d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb3d69ee95852d9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d79fe53ae69fb16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tema 2 - Effekt og energi/Generelt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ed7c5aa5de709b70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tema 2 - Effekt og energi/Generelt.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "38e00b0db82cd119",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ddf0dd80b2724ca7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ddc8072a6c9a7920",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tema 2 - Effekt og energi/Generelt.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2ed1e67b92ccfc1f",
+  "lastOpenFiles": [
+    "Tema 2 - Effekt og energi/Generelt.md",
+    "Tema 2 - Effekt og energi/Strøm - Ampere.md",
+    "Tema 2 - Effekt og energi/Modstand - Ohm.md",
+    "Billeder/Pasted image 20260804122819.png",
+    "Symboler og deres betydning.md",
+    "Billeder/Pasted image 20260804120943.png",
+    "Tema 2 - Effekt og energi/Spænding - Volt.md",
+    "Billeder/Pasted image 20260804112001.png",
+    "Billeder",
+    "Tema 4 - Sikkerhed/Generalt.md",
+    "Tema 4 - Sikkerhed/L-AUS- Arbejde under spænding.md",
+    "Tema 4 - Sikkerhed/Spændingsløst.md",
+    "Tema 2 - Effekt og energi",
+    "Tema 4 - Sikkerhed/Nær ved spænding.md",
+    "Tema 4 - Sikkerhed"
+  ]
+}

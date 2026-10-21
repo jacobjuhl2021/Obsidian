@@ -1,0 +1,2 @@
+![[Pasted image 20260804120943.png]]
+**EC 60900** is the ==international safety standard for hand tools used for live electrical work up to 1,000V AC and 1,500V DC, covering insulated, insulating, and hybrid tools.

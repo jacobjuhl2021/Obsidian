@@ -1,0 +1,27 @@
+/* 1. Fjern afstand i Live Preview (Edit-tilstand) */
+.cm-embed-block:has(.math-block) {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+/* 2. Fjern afstand i Reading Mode (Læse-tilstand) */
+.markdown-rendered .math-block {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+/* 3. Nulstil selve MathJax formlen indeni */
+.math-block mjx-container[display="true"] {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+    text-align: left !important;
+    margin-left: 0 !important;
+    padding-left: 0.5em !important;
+    line-height: 1 !important;
+}

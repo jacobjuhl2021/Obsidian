@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "989f23dfa2271263",
+    "type": "split",
+    "children": [
+      {
+        "id": "409168283b656405",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c09a1d608c7bcc7a",
+            "type": "leaf",
+            "state": {
+              "type": "docx-view",
+              "state": {
+                "file": "Elektriker GF2/Matematik/Fra underviser/Alle dokumenter(3).docx"
+              },
+              "icon": "lucide-file",
+              "title": "Alle dokumenter(3)"
+            }
+          },
+          {
+            "id": "73bed5c07f954b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elektriker GF2/Matematik/Fra underviser/Opgaver/AC vekselstrøm/ac opgaver.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ac opgaver"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c30f326af763149",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1e596ff903fe594",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "383fb8d969619414",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Filer"
+            }
+          },
+          {
+            "id": "2838f743b9a8a22d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f73d146a377ea19a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.4756164550781
+  },
+  "right": {
+    "id": "befcd67698b4e79f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9cf5394ec19f2c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6913ea1d04f7d273",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Elektriker GF2/Tema 2 - Effekt og energi/Generelt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "91a19e50d28b6727",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Elektriker GF2/Asbest arbejde/BEK 1328.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Udgående links"
+            }
+          },
+          {
+            "id": "f9990f4557db0239",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "92e4b227f59f5dc3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9d71d8e70b69bd3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Åbn Hurtigskifter": false,
+      "graph:Åbn grafvisning": false,
+      "canvas:Opret nyt lærred": false,
+      "daily-notes:Åbn dagens note": false,
+      "templates:Indsæt skabelon": false,
+      "command-palette:Åbn kommandopalet": false,
+      "bases:Opret ny base": false,
+      "sheet-plus:Opret Excel-fil": false
+    }
+  },
+  "active": "73bed5c07f954b1f",
+  "lastOpenFiles": [
+    "Pasted image 20261021091134.png",
+    "Pasted image 20261021090456.png",
+    "Pasted image 20261021085130.png",
+    "Elektriker GF2/Matematik/Fra underviser/Alle dokumenter(3).docx",
+    "Elektriker GF2/Matematik/Fra underviser/Opgaver/AC vekselstrøm/ac opgaver.md",
+    "Elektriker GF2/Tema 2 - Effekt og energi/Effekt - Watt.md",
+    "Elektriker GF2/Tema 2 - Effekt og energi/Strøm - Ampere.md",
+    "Elektriker GF2/Tema 2 - Effekt og energi/Spænding - Volt.md",
+    "Elektriker GF2/Tema 2 - Effekt og energi/Prisberegning.md",
+    "Elektriker GF2/Tema 2 - Effekt og energi/Modstand - Ohm.md",
+    "Elektriker GF2/Tema 2 - Effekt og energi/Generelt.md",
+    "Elektriker GF2/Bekendtgørelser og standarter/60364 version 11_2026.pdf",
+    "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Generelt.md",
+    "Elektriker GF2/Bekendtgørelser og standarter/DS_EN 60204-1_2018.pdf",
+    "Elektriker GF2/z - Billeder/Pasted image 20261019104854.png",
+    "Elektriker GF2/z - Billeder/Pasted image 20261019090714.png",
+    "Elektriker GF2/z - Billeder/Pasted image 20261009102224.png",
+    "Elektriker GF2/z - Billeder/Pasted image 20261019091331.png",
+    "Elektriker GF2/z - Billeder/Pasted image 20261019095041.png",
+    "Elektriker GF2/Asbest arbejde/BEK 1328.pdf",
+    "Elektriker GF2/Tema 8 - Transformer/Regning start s. 216.md",
+    "Elektriker GF2/Asbest arbejde/BEK 1328 Opgave.md",
+    "Elektriker GF2/Asbest arbejde/Rep 1 Dag.md",
+    "Elektriker GF2/Asbest arbejde/Asbest arbejde.md",
+    "Elektriker GF2/Tema 8 - Transformer/Transformer.md",
+    "Elektriker GF2/z - Billeder/Pasted image 20261009091644.png",
+    "Elektriker GF2/Asbest arbejde/Opgaver.md",
+    "Elektriker GF2/Asbest arbejde/~$Svar på spørgsmål.pptx",
+    "Elektriker GF2/Asbest arbejde/Svar på spørgsmål 1.pptx",
+    "Elektriker GF2/Asbest arbejde/Svar på spørgsmål.pptx",
+    "Elektriker GF2/Tema 9 - Motor -mærkeplade/Generelt.md",
+    "Elektriker GF2/z - Billeder/Pasted image 20261007144918.png",
+    "Elektriker GF2/z - Billeder/Pasted image 20261007124602.png",
+    "Elektriker GF2/Fysik/Fysik.md",
+    "Elektriker GF2/Matematik/Fra underviser/Alle dokumenter(3).pdf",
+    "Elektriker GF2/Matematik/AC vekselsstrøm teori/AC opgaver GF2(14).pdf",
+    "Talepapir_Tema4_Lovgivning_elsikkerhed_arbejdsmiljo.md",
+    "Elektriker GF2/Matematik/Matematik.md",
+    "Elektriker GF2/Matematik/Fra underviser/~$le dokumenter(3).docx",
+    "Elektriker GF2/Matematik/Fra underviser/Opgaver/Svar.md",
+    "Elektriker GF2/Matematik/Trigonomitri.md",
+    "Elektriker GF2/Bekendtgørelser og standarter/Regler og love.md",
+    "Elektriker GF2/Bekendtgørelser og standarter/Parcelhus opgave.md",
+    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
+    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Jording (hører ikke til i noget tema).md",
+    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Dimensionering.md"
+  ]
+}
