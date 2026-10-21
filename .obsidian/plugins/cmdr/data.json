@@ -9,9 +9,9 @@
   "titleBar": [],
   "statusBar": [
     {
-      "id": "obsidian-git:backup-and-close",
+      "id": "obsidian-git:push",
       "icon": "lucide-anvil",
-      "name": "Git: Commit-and-sync and then close Obsidian",
+      "name": "Git: Commit-and-sync",
       "mode": "any"
     }
   ],
