@@ -192,7 +192,7 @@ $Z_{s}=(25\angle0\degree)+(47.123\angle 90\degree)\approx 53.344ohm\ldots\angle 
 
 
 
-
+ 
 #### b)
 ![[Pasted image 20261021091134.png|416]]
 
