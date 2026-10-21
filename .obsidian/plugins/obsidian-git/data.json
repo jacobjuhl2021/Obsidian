@@ -28,7 +28,7 @@
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
-  "changedFilesInStatusBar": false,
+  "changedFilesInStatusBar": true,
   "limitToVault": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,

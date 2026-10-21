@@ -1,0 +1,41 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "obsidian-git:backup-and-close",
+      "icon": "lucide-anvil",
+      "name": "Git: Commit-and-sync and then close Obsidian",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "emptyState": [],
+  "textToolbarCommands": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [],
+    "editorMenuItems": [],
+    "fileMenuItems": []
+  },
+  "spacing": 0,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  },
+  "spacingReset": true
+}
