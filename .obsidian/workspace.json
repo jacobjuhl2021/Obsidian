@@ -192,6 +192,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Åbn Hurtigskifter": false,
       "graph:Åbn grafvisning": false,
       "canvas:Opret nyt lærred": false,
