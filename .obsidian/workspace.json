@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c09a1d608c7bcc7a",
+            "id": "db86b92b966fdff3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/DS_EN 60204-1_2018.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DS_EN 60204-1_2018"
+            }
+          },
+          {
+            "id": "db9674a02a7c1192",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +34,7 @@
             }
           },
           {
-            "id": "db86b92b966fdff3",
+            "id": "3561842acb51f98c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +47,7 @@
               "title": "Eksamensviden"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,13 +218,15 @@
   },
   "active": "db86b92b966fdff3",
   "lastOpenFiles": [
+    "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Generelt.md",
+    "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/DS_EN 60204-1_2018.pdf",
+    "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Unconfirmed 494952.crdownload",
+    "Elektriker GF2/Eksamensviden/Eksamensviden.md",
     "IMG_4542.jpg",
     "IMG_4541.jpg",
     "IMG_4539 (2).jpg",
     "Elektriker GF2/Eksamensviden.md",
-    "Elektriker GF2/Eksamensviden/Eksamensviden.md",
     "Elektriker GF2/Eksamensviden",
-    "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Generelt.md",
     "Elektriker GF2/Tema 4 - Sikkerhed/Love og regler.md",
     "Elektriker GF2/Tema 4 - Sikkerhed/L-AUS- Arbejde under spænding.md",
     "Elektriker GF2/Tema 4 - Sikkerhed/Generalt.md",
@@ -236,7 +249,6 @@
     "Elektriker GF2/z - Billeder/Pasted image 20261019090714.png",
     "Elektriker GF2/z - Billeder/Pasted image 20261009102224.png",
     "Elektriker GF2/z - Billeder/Pasted image 20261019091331.png",
-    "Elektriker GF2/z - Billeder/Pasted image 20261019095041.png",
     "Elektriker GF2/Asbest arbejde/BEK 1328.pdf",
     "Elektriker GF2/Tema 8 - Transformer/Regning start s. 216.md",
     "Elektriker GF2/Asbest arbejde/BEK 1328 Opgave.md",
@@ -249,8 +261,6 @@
     "Elektriker GF2/Asbest arbejde/Svar på spørgsmål.pptx",
     "Elektriker GF2/Tema 9 - Motor -mærkeplade/Generelt.md",
     "Elektriker GF2/Fysik/Fysik.md",
-    "Elektriker GF2/Matematik/Fra underviser/Alle dokumenter(3).pdf",
-    "Elektriker GF2/Matematik/AC vekselsstrøm teori/AC opgaver GF2(14).pdf",
     "Elektriker GF2/Matematik/Matematik.md",
     "Elektriker GF2/Matematik/Fra underviser/Opgaver/Svar.md"
   ]
