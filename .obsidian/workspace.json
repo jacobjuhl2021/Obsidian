@@ -25,14 +25,12 @@
             "id": "b18f761fc782f5ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "docx-view",
               "state": {
-                "file": "Elektriker GF2/Tema 3 - Basal programmering/Generelt.md",
-                "mode": "source",
-                "source": false
+                "file": "Elektriker GF2/Tema 3 - Basal programmering/De 6 gates i LOGO.docx"
               },
               "icon": "lucide-file",
-              "title": "Generelt"
+              "title": "De 6 gates i LOGO"
             }
           },
           {
@@ -233,10 +231,13 @@
       "sheet-plus:Opret Excel-fil": false
     }
   },
-  "active": "383fb8d969619414",
+  "active": "b18f761fc782f5ca",
   "lastOpenFiles": [
-    "Elektriker GF2/Tema 10 - Forbindelser/1. Generelt.md",
     "Elektriker GF2/Tema 3 - Basal programmering/Generelt.md",
+    "Elektriker GF2/Tema 3 - Basal programmering/De 6 gates i LOGO.docx",
+    "Elektriker GF2/Tema 3 - Basal programmering/MANUAL - Siemens LOGO ny.pdf",
+    "Elektriker GF2/Tema 3 - Basal programmering/LOGO Manual For Dummies.pdf",
+    "Elektriker GF2/Tema 10 - Forbindelser/1. Generelt.md",
     "Elektriker GF2/Tema 10 - Forbindelser/Blandede forbindelser.md",
     "Elektriker GF2/Tema 10 - Forbindelser/Parralel forbindelser.md",
     "Elektriker GF2/Tema 10 - Forbindelser/Serie forbindelser.md",
@@ -276,10 +277,6 @@
     "Elektriker GF2/z - Billeder/Pasted image 20261019090714.png",
     "Elektriker GF2/z - Billeder/Pasted image 20261009102224.png",
     "Elektriker GF2/z - Billeder/Pasted image 20261019091331.png",
-    "Elektriker GF2/Asbest arbejde/BEK 1328.pdf",
-    "Elektriker GF2/Tema 8 - Transformer/Regning start s. 216.md",
-    "Elektriker GF2/Asbest arbejde/BEK 1328 Opgave.md",
-    "Elektriker GF2/Asbest arbejde/~$Svar på spørgsmål.pptx",
-    "Elektriker GF2/Asbest arbejde/Svar på spørgsmål 1.pptx"
+    "Elektriker GF2/Tema 8 - Transformer/Regning start s. 216.md"
   ]
 }
