@@ -11,12 +11,14 @@
             "id": "db86b92b966fdff3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/DS_EN 60204-1_2018.pdf"
+                "file": "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Simpel dimensionering.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DS_EN 60204-1_2018"
+              "icon": "lucide-file",
+              "title": "Simpel dimensionering"
             }
           },
           {
@@ -218,8 +220,12 @@
   },
   "active": "db86b92b966fdff3",
   "lastOpenFiles": [
-    "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Generelt.md",
+    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/potentialudligning_i_huse_version_2.pdf",
+    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
+    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Jording (hører ikke til i noget tema).md",
+    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Dimensionering.md",
     "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/DS_EN 60204-1_2018.pdf",
+    "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Generelt.md",
     "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Unconfirmed 494952.crdownload",
     "Elektriker GF2/Eksamensviden/Eksamensviden.md",
     "IMG_4542.jpg",
@@ -259,9 +265,6 @@
     "Elektriker GF2/Asbest arbejde/~$Svar på spørgsmål.pptx",
     "Elektriker GF2/Asbest arbejde/Svar på spørgsmål 1.pptx",
     "Elektriker GF2/Asbest arbejde/Svar på spørgsmål.pptx",
-    "Elektriker GF2/Tema 9 - Motor -mærkeplade/Generelt.md",
-    "Elektriker GF2/Fysik/Fysik.md",
-    "Elektriker GF2/Matematik/Matematik.md",
-    "Elektriker GF2/Matematik/Fra underviser/Opgaver/Svar.md"
+    "Elektriker GF2/Tema 9 - Motor -mærkeplade/Generelt.md"
   ]
 }
