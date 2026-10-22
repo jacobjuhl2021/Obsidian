@@ -25,12 +25,12 @@
             "id": "b18f761fc782f5ca",
             "type": "leaf",
             "state": {
-              "type": "docx-view",
+              "type": "pdf",
               "state": {
-                "file": "Elektriker GF2/Tema 3 - Basal programmering/De 6 gates i LOGO.docx"
+                "file": "Elektriker GF2/Tema 3 - Basal programmering/MANUAL - Siemens LOGO ny.pdf"
               },
-              "icon": "lucide-file",
-              "title": "De 6 gates i LOGO"
+              "icon": "lucide-file-text",
+              "title": "MANUAL - Siemens LOGO ny"
             }
           },
           {
@@ -233,10 +233,10 @@
   },
   "active": "b18f761fc782f5ca",
   "lastOpenFiles": [
-    "Elektriker GF2/Tema 3 - Basal programmering/Generelt.md",
-    "Elektriker GF2/Tema 3 - Basal programmering/De 6 gates i LOGO.docx",
-    "Elektriker GF2/Tema 3 - Basal programmering/MANUAL - Siemens LOGO ny.pdf",
     "Elektriker GF2/Tema 3 - Basal programmering/LOGO Manual For Dummies.pdf",
+    "Elektriker GF2/Tema 3 - Basal programmering/De 6 gates i LOGO.docx",
+    "Elektriker GF2/Tema 3 - Basal programmering/Generelt.md",
+    "Elektriker GF2/Tema 3 - Basal programmering/MANUAL - Siemens LOGO ny.pdf",
     "Elektriker GF2/Tema 10 - Forbindelser/1. Generelt.md",
     "Elektriker GF2/Tema 10 - Forbindelser/Blandede forbindelser.md",
     "Elektriker GF2/Tema 10 - Forbindelser/Parralel forbindelser.md",
