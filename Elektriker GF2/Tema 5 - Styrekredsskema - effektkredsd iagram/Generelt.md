@@ -1,7 +1,6 @@
  Start på side. 245. i grundbogen
 60204-1 bek for dette
 
-
 #### Ikoner
 ![[Pasted image 20261019091331.png]]
 
