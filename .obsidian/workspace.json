@@ -11,12 +11,14 @@
             "id": "23b6525585f8a790",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf"
+                "file": "Elektriker GF2/Tema 10 - Forbindelser/1. Generelt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Symboler installation"
+              "icon": "lucide-file",
+              "title": "1. Generelt"
             }
           },
           {
@@ -107,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.2637634277344
+    "width": 200
   },
   "right": {
     "id": "befcd67698b4e79f",
@@ -216,10 +218,13 @@
   },
   "active": "23b6525585f8a790",
   "lastOpenFiles": [
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
-    "Elektriker GF2/Tema 10 - Forbindelser/Serie forbindelser.md",
-    "Elektriker GF2/Tema 10 - Forbindelser/Parralel forbindelser.md",
     "Elektriker GF2/Tema 10 - Forbindelser/Blandede forbindelser.md",
+    "Elektriker GF2/Tema 10 - Forbindelser/Parralel forbindelser.md",
+    "Elektriker GF2/Tema 10 - Forbindelser/Serie forbindelser.md",
+    "Elektriker GF2/Symboler og deres betydning.md",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tavler.md",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
     "Elektriker GF2/Tema 10 - Forbindelser/1. Generelt.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf",
     "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Generelt.md",
@@ -251,16 +256,13 @@
     "Elektriker GF2/Tema 2 - Effekt og energi/Effekt - Watt.md",
     "Elektriker GF2/Matematik/Fra underviser/Alle dokumenter(3).docx",
     "Elektriker GF2/z - Billeder/Pasted image 20261021085130.png",
-    "Elektriker GF2/Symboler og deres betydning.md",
     "Talepapir_Tema4_Lovgivning_elsikkerhed_arbejdsmiljo.md",
     "Elektriker GF2/Matematik/Fra underviser/Opgaver/AC vekselstrøm/ac opgaver.md",
     "Elektriker GF2/z - Billeder/Pasted image 20261021091134.png",
     "Elektriker GF2/z - Billeder/Pasted image 20261021090456.png",
-    "Elektriker GF2/Bekendtgørelser og standarter/60364 version 11_2026.pdf",
     "Elektriker GF2/z - Billeder/Pasted image 20261019104854.png",
     "Elektriker GF2/z - Billeder/Pasted image 20261019090714.png",
     "Elektriker GF2/z - Billeder/Pasted image 20261009102224.png",
-    "Elektriker GF2/z - Billeder/Pasted image 20261019091331.png",
-    "Elektriker GF2/Tema 8 - Transformer/Regning start s. 216.md"
+    "Elektriker GF2/z - Billeder/Pasted image 20261019091331.png"
   ]
 }
