@@ -11,14 +11,12 @@
             "id": "23b6525585f8a790",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Elektriker GF2/Tema 10 - Forbindelser/Serie forbindelser.md",
-                "mode": "source",
-                "source": false
+                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Serie forbindelser"
+              "icon": "lucide-file-text",
+              "title": "Symboler installation"
             }
           },
           {
@@ -218,9 +216,10 @@
   },
   "active": "23b6525585f8a790",
   "lastOpenFiles": [
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
+    "Elektriker GF2/Tema 10 - Forbindelser/Serie forbindelser.md",
     "Elektriker GF2/Tema 10 - Forbindelser/Parralel forbindelser.md",
     "Elektriker GF2/Tema 10 - Forbindelser/Blandede forbindelser.md",
-    "Elektriker GF2/Tema 10 - Forbindelser/Serie forbindelser.md",
     "Elektriker GF2/Tema 10 - Forbindelser/1. Generelt.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf",
     "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Generelt.md",
