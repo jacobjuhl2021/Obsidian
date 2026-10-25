@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf"
+                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Bek. 1082"
+              "title": "Tændingssystemer ledninger"
             }
           },
           {
@@ -216,9 +216,12 @@
   },
   "active": "23b6525585f8a790",
   "lastOpenFiles": [
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tavler.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tavler.md",
     "Elektriker GF2/Tema 4 - Sikkerhed/Generalt.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Unconfirmed 566424.crdownload",
     "Elektriker GF2/Tema 4 - Sikkerhed/L-AUS- Arbejde under spænding.md",
@@ -227,14 +230,11 @@
     "Elektriker GF2/Tema 4 - Sikkerhed/Paragraffer.md",
     "Elektriker GF2/Tema 4 - Sikkerhed/Spændingsløst.md",
     "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/DS_EN 60204-1_2018.pdf",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
     "Elektriker GF2/Tema 10 - Forbindelser/1. Generelt.md",
     "Elektriker GF2/Tema 10 - Forbindelser/Blandede forbindelser.md",
     "Elektriker GF2/Tema 10 - Forbindelser/Parralel forbindelser.md",
     "Elektriker GF2/Tema 10 - Forbindelser/Serie forbindelser.md",
     "Elektriker GF2/Symboler og deres betydning.md",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
     "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Generelt.md",
     "Elektriker GF2/Tema 3 - Basal programmering/De 6 gates i LOGO.docx",
     "Elektriker GF2/Tema 3 - Basal programmering/Generelt.md",
