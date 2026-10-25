@@ -11,12 +11,14 @@
             "id": "23b6525585f8a790",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf"
+                "file": "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "60364 version 11_2026"
+              "icon": "lucide-file",
+              "title": "Ledningsberegning"
             }
           },
           {
@@ -216,6 +218,9 @@
   },
   "active": "23b6525585f8a790",
   "lastOpenFiles": [
+    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Jording (hører ikke til i noget tema).md",
+    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Dimensionering.md",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
@@ -230,9 +235,6 @@
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Simpel dimensionering.md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/potentialudligning_i_huse_version_2.pdf",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
-    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Jording (hører ikke til i noget tema).md",
-    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Dimensionering.md",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
     "Elektriker GF2/Tema 4 - Sikkerhed/Generalt.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Unconfirmed 566424.crdownload",
     "Elektriker GF2/Tema 4 - Sikkerhed/L-AUS- Arbejde under spænding.md",
