@@ -32,6 +32,6 @@ eksempelvis: 1:0,33 altså ville viklingerne være 1000 på primær og 333 på s
 
 *Stepup transformer, øger spænding*
 *Stepdown transformer, sænker spænding*
-Disse givermening fordi at $S=U*I$ så hvis man ønsker at sænke spænding så må strøm stige
+Disse giver mening fordi at $S=U*I$ så hvis man ønsker at sænke spænding så må strøm stige
 
 #### Til temaopgave
