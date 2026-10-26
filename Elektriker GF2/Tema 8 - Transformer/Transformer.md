@@ -11,7 +11,7 @@ $\eta=\eta_{1}+\eta_{2}$
 
 ##### Transformer ligning:
 Omsætningsforholdet:
-$\eta= \frac{\eta_{1}}{\eta_{2}}=\frac{U_{1}}{U_{2}}=\frac{I_{1}}{I_{2}}$
+$\eta= \frac{\eta_{1}}{\eta_{2}}=\frac{U_{1}}{U_{2}}=\frac{I_{2}}{I_{1}}$
 ###### Regne eksempel:
 Opg 7, s. 218:
 Til belysning ved kassen i en tøjbutik opsættes 6stk. 24V/20W halogenspots (for glødelamper er W = VA), som skal forsynes fra en fælles transformer. Transformeren tilsluttes 230 V.
