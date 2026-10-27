@@ -11,12 +11,14 @@
             "id": "b18f761fc782f5ca",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf"
+                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Tændingssystemer ledninger"
+              "icon": "lucide-file",
+              "title": "Generelt"
             }
           },
           {
@@ -95,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "right": {
     "id": "befcd67698b4e79f",
@@ -205,7 +206,10 @@
   },
   "active": "b18f761fc782f5ca",
   "lastOpenFiles": [
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tavler.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf",
     "Elektriker GF2/Tema 9 - Motor -mærkeplade/Generelt.md",
     "Elektriker GF2/Tema 10 - Forbindelser/1. Generelt.md",
     "Elektriker GF2/Tema 8 - Transformer/Regning start s. 216.md",
@@ -221,11 +225,8 @@
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Jording (hører ikke til i noget tema).md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Dimensionering.md",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tavler.md",
     "Elektriker GF2/Tema 2 - Effekt og energi/Strøm - Ampere.md",
     "Elektriker GF2/Tema 2 - Effekt og energi/Spænding - Volt.md",
     "Elektriker GF2/Tema 2 - Effekt og energi/Prisberegning.md",
