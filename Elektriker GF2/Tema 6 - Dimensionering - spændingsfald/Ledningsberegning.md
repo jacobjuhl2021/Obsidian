@@ -4,6 +4,8 @@ Se side 97 i grundbog for formler og konstanter.
 ![[Pasted image 20260817104122.png]]![[Pasted image 20260817104142.png|253]]
 ![[Pasted image 20260817104655.png|426]]
 
+Kobbers modstandsfylde($\rho$) er: $0.0225 \frac{ohm*mm^2}{meter}$
+
 Lednings modstand i cobber regnes som følgende:
 Cobbers konstant er 0,0175
 Cobbers konstant er 0,0225 hvis det skal belastes
