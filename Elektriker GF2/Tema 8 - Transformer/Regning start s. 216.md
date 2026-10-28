@@ -1,3 +1,4 @@
+$\frac{U_{1}}{U_{2}}=\frac{N_{1}}{N_{2}}$
 #### Opg. 1:  
 Konstruer din egen ”hjælpetrekant”, som fra ohms lov, for transformerligningen. Indsæt de manglende formelsymboler.
 
