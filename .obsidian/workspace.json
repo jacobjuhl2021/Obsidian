@@ -11,12 +11,14 @@
             "id": "b18f761fc782f5ca",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf"
+                "file": "Elektriker GF2/Tema 8 - Transformer/Regning start s. 216.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Symboler installation"
+              "icon": "lucide-file",
+              "title": "Regning start s. 216"
             }
           },
           {
@@ -204,6 +206,7 @@
   },
   "active": "b18f761fc782f5ca",
   "lastOpenFiles": [
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
@@ -211,7 +214,6 @@
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Dimensionering.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tavler.md",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
     "Elektriker GF2/Tema 9 - Motor -mærkeplade/Generelt.md",
     "Elektriker GF2/Tema 10 - Forbindelser/1. Generelt.md",
     "Elektriker GF2/Tema 8 - Transformer/Regning start s. 216.md",
