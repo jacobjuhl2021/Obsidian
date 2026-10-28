@@ -11,14 +11,12 @@
             "id": "b18f761fc782f5ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
-                "mode": "source",
-                "source": false
+                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Ledningsberegning"
+              "icon": "lucide-file-text",
+              "title": "Symboler installation"
             }
           },
           {
@@ -206,13 +204,14 @@
   },
   "active": "b18f761fc782f5ca",
   "lastOpenFiles": [
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
+    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Jording (hører ikke til i noget tema).md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Dimensionering.md",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tavler.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf",
     "Elektriker GF2/Tema 9 - Motor -mærkeplade/Generelt.md",
     "Elektriker GF2/Tema 10 - Forbindelser/1. Generelt.md",
     "Elektriker GF2/Tema 8 - Transformer/Regning start s. 216.md",
@@ -225,7 +224,6 @@
     "Elektriker GF2/z - Billeder/Pasted image 20260806121344.png",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Simpel dimensionering.md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/potentialudligning_i_huse_version_2.pdf",
-    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf",
     "Elektriker GF2/Tema 2 - Effekt og energi/Strøm - Ampere.md",
     "Elektriker GF2/Tema 2 - Effekt og energi/Spænding - Volt.md",
