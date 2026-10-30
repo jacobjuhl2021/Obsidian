@@ -11,14 +11,12 @@
             "id": "b18f761fc782f5ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Elektriker GF2/Tema 9 - Motor -mærkeplade/Generelt.md",
-                "mode": "source",
-                "source": false
+                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Generelt"
+              "icon": "lucide-file-text",
+              "title": "Tændingssystemer ledninger"
             }
           },
           {
@@ -206,18 +204,18 @@
   },
   "active": "b18f761fc782f5ca",
   "lastOpenFiles": [
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
+    "Elektriker GF2/Tema 9 - Motor -mærkeplade/Generelt.md",
     "Elektriker GF2/Tema 8 - Transformer/Regning start s. 216.md",
     "Elektriker GF2/Tema 10 - Forbindelser/Serie forbindelser.md",
     "Elektriker GF2/Tema 10 - Forbindelser/Parralel forbindelser.md",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Jording (hører ikke til i noget tema).md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Dimensionering.md",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tavler.md",
-    "Elektriker GF2/Tema 9 - Motor -mærkeplade/Generelt.md",
     "Elektriker GF2/Tema 10 - Forbindelser/1. Generelt.md",
     "Elektriker GF2/Tema 8 - Transformer/Transformer.md",
     "Elektriker GF2/Tema 3 - Basal programmering/MANUAL - Siemens LOGO ny.pdf",
