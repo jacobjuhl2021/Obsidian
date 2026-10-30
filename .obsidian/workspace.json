@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf"
+                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Tændingssystemer ledninger"
+              "title": "60364 version 11_2026"
             }
           },
           {
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "right": {
     "id": "befcd67698b4e79f",
@@ -204,13 +205,13 @@
   },
   "active": "b18f761fc782f5ca",
   "lastOpenFiles": [
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
     "Elektriker GF2/Tema 9 - Motor -mærkeplade/Generelt.md",
     "Elektriker GF2/Tema 8 - Transformer/Regning start s. 216.md",
     "Elektriker GF2/Tema 10 - Forbindelser/Serie forbindelser.md",
     "Elektriker GF2/Tema 10 - Forbindelser/Parralel forbindelser.md",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Jording (hører ikke til i noget tema).md",
