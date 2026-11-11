@@ -4,10 +4,6 @@
 Vi har kun anvendt $1.5mm^2$ $CU$, da det er det eneste tilgængelige til installationerne.
 Til jordingssystem har vi anvendt $2.5mm^2$ $CU$ og $6mm^2$ $CU$.
 
-
-$$
-2.5mm^2 CU
-$$
 ### Simpel Dimensionering - [[11 - Dimensionering#Dimensionering af Stikledning|11 - Dimensionering]]
 
 
@@ -69,11 +65,4 @@ Lyset i badeværelset er styret af en kroneafbryder
 ![[plantegning.jpg|700]]
 
 ### Installationsdiagram
-![[10 Dokumenter/01 Elektriker/IMG/Eksamen/installationsdiagram.jpg|543]]
-
-## PDF
-### GF 2 Eksamen
-![[10 Dokumenter/01 Elektriker/Dokumenter/Eksamen/eksamen.pdf|eksamen]]
-
-### Eksamen PDF
-![[30 - Eksamen.pdf]]
+![[installationsdiagram.jpg]]
