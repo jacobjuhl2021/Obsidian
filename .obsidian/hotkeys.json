@@ -1,0 +1,10 @@
+{
+  "advanced-pdf-export:open-panel": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ]
+}
