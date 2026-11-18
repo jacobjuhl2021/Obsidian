@@ -23,12 +23,14 @@
             "id": "3e68a7d198ebc394",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf"
+                "file": "Elektriker GF2/Tema 4 - Sikkerhed/L-AUS- Arbejde under spænding.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Bek. 1082"
+              "icon": "lucide-file",
+              "title": "L-AUS- Arbejde under spænding"
             }
           },
           {
@@ -217,13 +219,15 @@
   },
   "active": "3e68a7d198ebc394",
   "lastOpenFiles": [
+    "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Generelt.md",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf",
     "Elektriker GF2/Tema 4 - Sikkerhed/Love og regler.md",
     "Elektriker GF2/Tema 4 - Sikkerhed/Generalt.md",
     "Elektriker GF2/Tema 4 - Sikkerhed/L-AUS- Arbejde under spænding.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf",
     "Elektriker GF2/Eksamensviden/30 - Eksamen.md",
     "Elektriker GF2/Eksamensviden/Billeder/installationsdiagram.jpg",
     "Elektriker GF2/Eksamensviden/Billeder/Pasted image 20260909141628.png",
@@ -236,7 +240,6 @@
     "Elektriker GF2/Eksamensviden/Eksamensdokumentation.md",
     "Elektriker GF2/Eksamensviden/Eksamensviden.md",
     "Eksamen",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
     "Elektriker GF2/Tema 9 - Motor -mærkeplade/Generelt.md",
     "Elektriker GF2/Tema 8 - Transformer/Regning start s. 216.md",
     "Elektriker GF2/Tema 10 - Forbindelser/Serie forbindelser.md",
