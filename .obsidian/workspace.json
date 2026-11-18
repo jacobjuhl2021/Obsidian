@@ -23,14 +23,12 @@
             "id": "3e68a7d198ebc394",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Elektriker GF2/Eksamensviden/30 - Eksamen.md",
-                "mode": "source",
-                "source": false
+                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf"
               },
-              "icon": "lucide-file",
-              "title": "30 - Eksamen"
+              "icon": "lucide-file-text",
+              "title": "Bek. 1082"
             }
           },
           {
@@ -219,8 +217,8 @@
   },
   "active": "3e68a7d198ebc394",
   "lastOpenFiles": [
-    "Elektriker GF2/Eksamensviden/Billeder/installationsdiagram.jpg",
     "Elektriker GF2/Eksamensviden/30 - Eksamen.md",
+    "Elektriker GF2/Eksamensviden/Billeder/installationsdiagram.jpg",
     "Elektriker GF2/Eksamensviden/Billeder/Pasted image 20260909141628.png",
     "Elektriker GF2/Eksamensviden/Billeder/Pasted image 20260910085256.png",
     "Elektriker GF2/Eksamensviden/Billeder/09 Kiprelæ.jpg",
