@@ -37,12 +37,14 @@
             "id": "f38d34f3062a9aa5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf"
+                "file": "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Bek. 1082"
+              "icon": "lucide-file",
+              "title": "Ledningsberegning"
             }
           },
           {
@@ -94,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "delta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +120,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,10 +235,13 @@
   "active": "f38d34f3062a9aa5",
   "lastOpenFiles": [
     "Unavngivet.md",
+    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
+    "Elektriker GF2/Tema 2 - Effekt og energi/Spænding - Volt.md",
+    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/potentialudligning_i_huse_version_2.pdf",
+    "Elektriker GF2/Matematik/Fra underviser/Opgaver/AC vekselstrøm/ac opgaver.md",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf",
     "Elektriker GF2/Tema 2 - Effekt og energi/Prisberegning.md",
     "Elektriker GF2/Tema 2 - Effekt og energi/Generelt.md",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf",
-    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
     "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/DS_EN 60204-1_2018.pdf",
     "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Generelt.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
@@ -272,9 +278,7 @@
     "Elektriker GF2/z - Billeder/Pasted image 20260817104655.png",
     "Elektriker GF2/z - Billeder/Pasted image 20260817104404.png",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Simpel dimensionering.md",
-    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/potentialudligning_i_huse_version_2.pdf",
     "Elektriker GF2/Tema 2 - Effekt og energi/Strøm - Ampere.md",
-    "Elektriker GF2/Tema 2 - Effekt og energi/Spænding - Volt.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Unconfirmed 566424.crdownload"
   ]
 }
