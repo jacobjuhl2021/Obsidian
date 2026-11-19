@@ -12,7 +12,7 @@ Cobbers konstant er 0,0225 hvis det skal belastes
 $$Rl = 0,0225(p) *længde *2 / tværsnit(q)$$
 Eksempel:
 Cobber ledning, 30 meter langt, tværsnit(q) 6mm.
-$$Rl = 0,0225*30*2/6$$
+$$Rl = 0,0225*30*2/6\approx (0,2250)$$
 --------------------------------------------------------------------------
 
 DeltaU er spændingsfaldet i ledningen. 
