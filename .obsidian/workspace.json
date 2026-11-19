@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf"
+                "file": "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/DS_EN 60204-1_2018.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "60364 version 11_2026"
+              "title": "DS_EN 60204-1_2018"
             }
           },
           {
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Søg"
             }
           },
           {
@@ -231,11 +231,14 @@
       "sheet-plus:Opret Excel-fil": false
     }
   },
-  "active": "f38d34f3062a9aa5",
+  "active": "383fb8d969619414",
   "lastOpenFiles": [
-    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
-    "Elektriker GF2/Tema 2 - Effekt og energi/Generelt.md",
     "Unavngivet.md",
+    "Elektriker GF2/Tema 2 - Effekt og energi/Generelt.md",
+    "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/DS_EN 60204-1_2018.pdf",
+    "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Generelt.md",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
+    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Jording (hører ikke til i noget tema).md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Dimensionering.md",
@@ -246,8 +249,6 @@
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tavler.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf",
     "Elektriker GF2/Tema 4 - Sikkerhed/L-AUS- Arbejde under spænding.md",
-    "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Generelt.md",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
     "Elektriker GF2/Tema 4 - Sikkerhed/Love og regler.md",
     "Elektriker GF2/Tema 4 - Sikkerhed/Generalt.md",
     "Elektriker GF2/Eksamensviden/30 - Eksamen.md",
@@ -276,7 +277,6 @@
     "Elektriker GF2/Tema 2 - Effekt og energi/Strøm - Ampere.md",
     "Elektriker GF2/Tema 2 - Effekt og energi/Spænding - Volt.md",
     "Elektriker GF2/Tema 2 - Effekt og energi/Prisberegning.md",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Unconfirmed 566424.crdownload",
-    "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/DS_EN 60204-1_2018.pdf"
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Unconfirmed 566424.crdownload"
   ]
 }
