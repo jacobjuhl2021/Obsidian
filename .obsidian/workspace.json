@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektriker GF2/Tema 10 - Forbindelser/Parralel forbindelser.md",
+                "file": "Elektriker GF2/Tema 10 - Forbindelser/Blandede forbindelser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parralel forbindelser"
+              "title": "Blandede forbindelser"
             }
           }
         ],
@@ -233,10 +233,12 @@
   },
   "active": "f38d34f3062a9aa5",
   "lastOpenFiles": [
-    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
+    "Elektriker GF2/Tema 10 - Forbindelser/Serie forbindelser.md",
     "Elektriker GF2/Tema 2 - Effekt og energi/Generelt.md",
-    "Elektriker GF2/Tema 10 - Forbindelser/Parralel forbindelser.md",
+    "Elektriker GF2/Tema 10 - Forbindelser/Blandede forbindelser.md",
     "Unavngivet.md",
+    "Elektriker GF2/Tema 10 - Forbindelser/Parralel forbindelser.md",
+    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
     "Elektriker GF2/Tema 2 - Effekt og energi/Spænding - Volt.md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/potentialudligning_i_huse_version_2.pdf",
     "Elektriker GF2/Matematik/Fra underviser/Opgaver/AC vekselstrøm/ac opgaver.md",
@@ -269,7 +271,6 @@
     "Eksamen",
     "Elektriker GF2/Tema 9 - Motor -mærkeplade/Generelt.md",
     "Elektriker GF2/Tema 8 - Transformer/Regning start s. 216.md",
-    "Elektriker GF2/Tema 10 - Forbindelser/Serie forbindelser.md",
     "Elektriker GF2/Tema 10 - Forbindelser/1. Generelt.md",
     "Elektriker GF2/Tema 8 - Transformer/Transformer.md",
     "Elektriker GF2/Tema 3 - Basal programmering/MANUAL - Siemens LOGO ny.pdf",
@@ -277,7 +278,6 @@
     "Elektriker GF2/z - Billeder/Pasted image 20260817104655.png",
     "Elektriker GF2/z - Billeder/Pasted image 20260817104404.png",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Simpel dimensionering.md",
-    "Elektriker GF2/Tema 2 - Effekt og energi/Strøm - Ampere.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Unconfirmed 566424.crdownload"
   ]
 }
