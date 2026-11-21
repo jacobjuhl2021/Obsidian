@@ -11,12 +11,14 @@
             "id": "f38d34f3062a9aa5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf"
+                "file": "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Generelt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Tændingssystemer ledninger"
+              "icon": "lucide-file",
+              "title": "Generelt"
             }
           },
           {
@@ -93,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "right": {
     "id": "befcd67698b4e79f",
@@ -202,8 +205,8 @@
   },
   "active": "f38d34f3062a9aa5",
   "lastOpenFiles": [
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
     "Elektriker GF2/Tema 10 - Forbindelser/Blandede forbindelser.md",
     "Elektriker GF2/Tema 2 - Effekt og energi/Generelt.md",
     "Unavngivet.md",
