@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Generelt.md",
+                "file": "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Dimensionering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generelt"
+              "title": "Dimensionering"
             }
           },
           {
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.16668701171875,
-    "collapsed": true
+    "width": 342.16668701171875
   },
   "right": {
     "id": "befcd67698b4e79f",
@@ -205,8 +204,8 @@
   },
   "active": "f38d34f3062a9aa5",
   "lastOpenFiles": [
-    "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/DS_EN 60204-1_2018.pdf",
     "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Generelt.md",
+    "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/DS_EN 60204-1_2018.pdf",
     "Elektriker GF2/z - Billeder/Pasted image 20261019091331.png",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf",
