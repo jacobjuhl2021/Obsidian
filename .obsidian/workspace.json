@@ -11,14 +11,12 @@
             "id": "f38d34f3062a9aa5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Simpel dimensionering.md",
-                "mode": "source",
-                "source": false
+                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Simpel dimensionering"
+              "icon": "lucide-file-text",
+              "title": "60364 version 11_2026"
             }
           },
           {
@@ -204,6 +202,7 @@
   },
   "active": "f38d34f3062a9aa5",
   "lastOpenFiles": [
+    "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Simpel dimensionering.md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/potentialudligning_i_huse_version_2.pdf",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Jording (hører ikke til i noget tema).md",
