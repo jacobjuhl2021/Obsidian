@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
     "latexcustom"
-  ]
+  ],
+  "showRibbon": true
 }
