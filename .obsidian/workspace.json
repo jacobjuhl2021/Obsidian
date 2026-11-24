@@ -23,12 +23,14 @@
             "id": "3561842acb51f98c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf"
+                "file": "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Dimensionering.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "60364 version 11_2026"
+              "icon": "lucide-file",
+              "title": "Dimensionering"
             }
           }
         ],
@@ -203,9 +205,11 @@
   },
   "active": "3561842acb51f98c",
   "lastOpenFiles": [
-    "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/DS_EN 60204-1_2018.pdf",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
+    "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/DS_EN 60204-1_2018.pdf",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Simpel dimensionering.md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/potentialudligning_i_huse_version_2.pdf",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
@@ -213,7 +217,6 @@
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Dimensionering.md",
     "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/Generelt.md",
     "Elektriker GF2/z - Billeder/Pasted image 20261019091331.png",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tændingssystemer ledninger.pdf",
     "Elektriker GF2/Tema 10 - Forbindelser/Blandede forbindelser.md",
     "Elektriker GF2/Tema 2 - Effekt og energi/Generelt.md",
@@ -225,7 +228,6 @@
     "Elektriker GF2/Tema 2 - Effekt og energi/Prisberegning.md",
     "Elektriker GF2/Tema 2 - Effekt og energi/Effekt - Watt.md",
     "Elektriker GF2/Eksamensviden/Eksamensviden.md",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Tavler.md",
     "Elektriker GF2/Tema 4 - Sikkerhed/L-AUS- Arbejde under spænding.md",
     "Elektriker GF2/Tema 4 - Sikkerhed/Love og regler.md",
