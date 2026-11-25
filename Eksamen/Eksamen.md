@@ -1,0 +1,6 @@
+Fejlstrøm
+Kortslutning
+Overstrøm
+
+
+Verifikation
