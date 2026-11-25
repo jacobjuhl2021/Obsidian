@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.16668701171875
+    "width": 342.16668701171875,
+    "collapsed": true
   },
   "right": {
     "id": "befcd67698b4e79f",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektriker GF2/Asbest arbejde/BEK 1328.pdf",
+                "file": "Eksamen/Eksamen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
