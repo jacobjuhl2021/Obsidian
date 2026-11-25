@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf"
+                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Bek. 1082"
+              "title": "60364 version 11_2026"
             }
           },
           {
@@ -37,14 +37,12 @@
             "id": "a44c7b56c8591218",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Eksamen/Eksamen.md",
-                "mode": "source",
-                "source": false
+                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Eksamen"
+              "icon": "lucide-file-text",
+              "title": "Bek. 1082"
             }
           }
         ],
@@ -145,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eksamen/Eksamen.md",
+                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -219,18 +217,18 @@
   },
   "active": "a44c7b56c8591218",
   "lastOpenFiles": [
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf",
+    "Eksamen/Eksamen.md",
     "Unavngivet.md",
     "Talepapir_Tema4_Lovgivning_elsikkerhed_arbejdsmiljo.md",
     "Elektriker GF2/z - Billeder/IMG_4539 (2).jpg",
-    "Eksamen/Eksamen.md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Simpel dimensionering.md",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Dimensionering.md",
     "Elektriker GF2/z - Billeder/Pasted image 20261125121719.png",
     "Elektriker GF2/z - Billeder/Pasted image 20261125121659.png",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Generelt.md",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Symboler installation.pdf",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf",
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
     "Elektriker GF2/Tema 5 - Styrekredsskema - effektkredsd iagram/DS_EN 60204-1_2018.pdf",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/potentialudligning_i_huse_version_2.pdf",
     "Elektriker GF2/Tema 6 - Dimensionering - spændingsfald/Ledningsberegning.md",
@@ -262,7 +260,6 @@
     "Elektriker GF2/Eksamensviden/Eksamensdokumentation.md",
     "Eksamen",
     "Elektriker GF2/Tema 9 - Motor -mærkeplade/Generelt.md",
-    "Elektriker GF2/Tema 8 - Transformer/Regning start s. 216.md",
     "Elektriker GF2/Tema 3 - Basal programmering/MANUAL - Siemens LOGO ny.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Unconfirmed 566424.crdownload"
   ]
