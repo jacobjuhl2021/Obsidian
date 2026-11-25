@@ -1,9 +1,3 @@
-Fejlstrøm
-Kortslutning
-Overstrøm
-
-
-Verifikation
 
 | Fejltype         | Beskrivelse                                                                                                       | Beskyttelse                                                |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -16,3 +10,11 @@ SPÆNDINGSFALD
 
 JORD
 modstand 
+
+
+TT Jordingsystem
+
+
+Jord leder til spyd skal være samme str som stikledning mellem tavle og kabelskab dog minimum 6mm2
+
+Beskyttende potentialeudligning til rivenet og vandrør, 
