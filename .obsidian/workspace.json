@@ -45,8 +45,7 @@
               "title": "Bek. 1082"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf",
+                "file": "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -215,10 +214,10 @@
       "sheet-plus:Opret Excel-fil": false
     }
   },
-  "active": "a44c7b56c8591218",
+  "active": "f38d34f3062a9aa5",
   "lastOpenFiles": [
-    "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
     "Elektriker GF2/Tema 1 - Installationstegning -diagram/Bek. 1082.pdf",
+    "Elektriker GF2/Tema 1 - Installationstegning -diagram/60364 version 11_2026.pdf",
     "Eksamen/Eksamen.md",
     "Unavngivet.md",
     "Talepapir_Tema4_Lovgivning_elsikkerhed_arbejdsmiljo.md",
